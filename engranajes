@@ -1,0 +1,7 @@
+h1 {
+  font-family: Arial Black;
+  color: #993399;
+}
+body {
+  background-color: #ffff66;
+}
